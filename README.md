@@ -50,7 +50,7 @@ To investigate potentially harmful processes:
    Right-click → **Properties** → **TCP/IP** tab. Unexpected external connections require attention. 🌐
 
 ---
-![WhatsApp Image 2025-10-27 at 10 12 55_7027eb25](https://github.com/srihari2082005-ctrl/img-1/blob/88bdf1361c76389b4ae9c42336db2e8ea1f7a066/Screenshot%202025-10-27%20185345.png)
+![WhatsApp Image 2025-10-27 at 10 12 55_7027eb25](https://github.com/99230041086-byte/Digital-forensics/blob/690f55be4da7f95b5c4ff7c98ec93e04336ec0b5/Screenshots/Screenshot%202025-11-11%20134152.png)
 
 
 ### Step 4: Research Suspicious Processes 🔎
